@@ -2,7 +2,7 @@
 
 clone the repository
 
-```git clone https://github.com/SujithaNagasuri/Eye_Controlled_Cursor.git```
+```git clone https://github.com/Tasupilli-Anil/Cursor-Control-Using-Eyeball-Movement.git```
 
 install the requirements
 
